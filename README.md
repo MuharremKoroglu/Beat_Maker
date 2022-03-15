@@ -3,7 +3,8 @@
 #### Thank You for taking the time to view my repository 
 
 ## <h2> About This App <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = 32px></h2>
-This app is a beatmaker and shows how developers can use the sounds from assets. So, the 'audio players' packet was used for this project. Then you have to create a variable of AudioCache type. Correspondingly, you see the Expanded Widget in the Column. This widget helps to make a scalable image. Besides, Container Widgets have TextButton Widget. Thanks to this widget, you can tap into containers and hear the sound. In addition, you can also see code refactoring. Thanks to this, the project was very clear and simple. 
+This app is a beatmaker and shows how developers can use the sounds from assets. So, the 'audio players' packet was used for this project. Then you have to create a variable of AudioCache type. Correspondingly, you see the Expanded Widget in the Column. This widget helps to make a scalable image. Besides, Container Widgets have TextButton Widget. Thanks to this widget, you can tap into containers and hear the sound. In addition, you can also see code refactoring. Thanks to this, the project was very clear and simple.
+<a href="https://pub.dev/packages/audioplayers" target="_blank">Visit AudioPlayers Package</a>
  
 <h2> Used Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> </h2>
 <div class="row">

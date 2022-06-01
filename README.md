@@ -1,12 +1,12 @@
 # BEAT MAKER
-### Hi there, I'm Muharrem <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 42px> 
+### Hi there, I'm Muharrem <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "42"> 
 #### Thank You for taking the time to view my repository 
 
-## <h2> About This App <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = 32px></h2>
+## <h2> About This App <img src = "https://c.tenor.com/JsoERRQcZqYAAAAi/thumbs-up-joypixels.gif" width = "42"></h2>
 This app is a beatmaker and shows how developers can use the sounds from assets. So, the <b>'AudioPlayers'</b> packet was used for this project. Then you have to create a variable of AudioCache type. Correspondingly, you see the Expanded Widget in the Column. This widget helps to make a scalable image. Besides, Container Widgets have TextButton Widget. Thanks to this widget, you can tap into containers and hear the sound. In addition, you can also see code refactoring. Thanks to this, the project was very clear and simple.
 <a href="https://pub.dev/packages/audioplayers" target="_blank">Visit AudioPlayers Package</a>
  
-<h2> Used Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 42px> </h2>
+<h2> Used Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "42"> </h2>
 <div class="row">
       <div class="column">
 <img width ='72px' src 
@@ -14,7 +14,7 @@ This app is a beatmaker and shows how developers can use the sounds from assets.
   </div>
 </div>
 
-<h2> Used Language <img src = "https://media.giphy.com/media/Zd6jPg8hcp4Q3vrvjo/giphy.gif" width = 42px> </h2>
+<h2> Used Language <img src = "https://media.giphy.com/media/Zd6jPg8hcp4Q3vrvjo/giphy.gif" width = "42"> </h2>
 <div class="row">
       <div class="column">
 <img width ='82px' src 
@@ -22,7 +22,7 @@ This app is a beatmaker and shows how developers can use the sounds from assets.
   </div>
 </div>
 
-<h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
+<h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = "62"> </h2>
   <div class="row">
 
 
@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/68854616/158376568-01bdb33a-f7f1-4247-
 
 
   </div>
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
 <a href = 'https://www.linkedin.com/in/muharremkoroglu/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://muharremkoroglu.medium.com/'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>
